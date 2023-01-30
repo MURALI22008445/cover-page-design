@@ -147,6 +147,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
+![img](book.png)
+
 ## Result:
 The program for designing book cover page using HTML and CSS is executed successfully.
 
